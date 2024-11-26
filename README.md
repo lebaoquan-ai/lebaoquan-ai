@@ -8,7 +8,7 @@ About Me
   
  🌱 I’m currently working freelance and open for commission and cooperation
 
- 🏃🏻‍♂️ Outside of developer work, I study psychology and train caelisthenics.
+ 🏃🏻‍♂️ Outside of developer work, I spend most of my time reading about psychology and training calisthenics.
 
 My Stuff
 
