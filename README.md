@@ -10,7 +10,7 @@ About Me
 
  🏃🏻‍♂️ Outside of developer work, I study psychology and train caelisthenics.
 
-My Projects
+My Stuff
 
   🧑🏻‍💻 Web Development
 
