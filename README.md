@@ -20,7 +20,7 @@ My Stuff
 
 Business Enquiries
 
-  💼 lebaoquan.devAI@gmail.com
+  💼 lebaoquan.aidev@gmail.com
   
 <!---
 lebaoquan-ai/lebaoquan-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
